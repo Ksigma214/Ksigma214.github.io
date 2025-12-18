@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kai SUN （孙凯）"
-description              : "currently Econ PhD student at ESSEC Business School"
+description              : "Econ PhD student at ESSEC Business School"
 repository               : "Ksigma214/Ksigma214.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kai SUN （孙凯）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "ESSEC PhD Student / Msc. Paris School of Economics / BA Zhongnan University of Economics and Law"
+  bio              : "Heterogeneous Macroeconomics, Monetary/Fiscal Policy, Computational Macro"
   location         : "Paris, France"
   employer         :
   pubmed           : 
