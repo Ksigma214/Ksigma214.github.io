@@ -17,13 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Economics at ESSEC Business School.
-
-My research interests include heterogeneous agent macroeconomics,
-monetary and fiscal policy, and computational macroeconomics.
-
-I am particularly interested in quantitative models with micro
-heterogeneity and their implications for policy design.
+I am a PhD student in Economics at ESSEC Business School. My research interests include heterogeneous agent macroeconomics,
+monetary and fiscal policy, and computational macroeconomics. I am particularly interested in quantitative models with micro heterogeneity and their implications for policy design.
 
 
 # 🔥 News
@@ -51,8 +46,18 @@ heterogeneity and their implications for policy design.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Ph.D. in Economics**  
+  *Sep 2025 – Jun 2030 (expected)*  
+  ESSEC Business School - CY Cergy Paris Université
+- **Master in Economics (APE Program)**  
+  *Sep 2022 – Jun 2024*  
+  Paris School of Economics (PSE) - Université Paris 1 Panthéon-Sorbonne
+- **Master 1st Year MMEF (Mathematical Methods in Economics and Finance)**  
+  *Sep 2021 – Jun 2022*  
+  Université Paris 1 Panthéon-Sorbonne
+- **B.A. in Economics**  
+  *Sep 2017 – Jun 2021*  
+  Zhongnan University of Economics and Law (中南财经政法大学)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
