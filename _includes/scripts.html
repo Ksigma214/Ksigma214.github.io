@@ -34,17 +34,4 @@
 })();
 </script>
 
-<script>
-  (function () {
-    // 只在当前页面存在容器时才加载，避免影响其它页面
-    var el = document.getElementById("visitor-map");
-    if (!el) return;
-
-    var s = document.createElement("script");
-    s.type = "text/javascript";
-    s.id = "mapmyvisitors";
-    s.src = "//mapmyvisitors.com/map.js?d=50AbbGQ2mMis2fm3SVKLtiKywngug7sRSYBJkV1RkJ8&cl=1f2933&w=a";
-    el.appendChild(s);
-  })();
-</script>
 
