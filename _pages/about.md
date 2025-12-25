@@ -66,8 +66,12 @@ Pending
 - *2023.06 - 2023.09*, Research Assistant for [Clément Bosquet](https://sites.google.com/site/clementbosquet/) and [Sarah Flèche](https://sites.google.com/site/sarahfleche/home?authuser=0)
 
 # 🌍 Visitors
-<script
-  type="text/javascript"
-  id="mapmyvisitors"
-  src="//mapmyvisitors.com/map.js?d=50AbbGQ2mMis2fm3SVKLtiKywngug7sRSYBJkV1RkJ8&cl=1f2933&w=a">
-</script>
+
+<div class="visitor-map">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="//mapmyvisitors.com/map.js?d=50AbbGQ2mMis2fm3SVKLtiKywngug7sRSYBJkV1RkJ8&cl=1f2933&w=a">
+  </script>
+</div>
+
