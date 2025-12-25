@@ -21,10 +21,12 @@ redirect_from:
 
 I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/). My advisor is [François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous macroeconomics and policy transimission, computational macroeconomics and international economics.
 
+# 🧠 Work in Progress
+- Monetary Policy and Heterogeneous Bank
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# ⚙️ Working Papers
+
+Pending
 
 # 📝 Publications 
 
