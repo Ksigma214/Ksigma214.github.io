@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kai SUN (孙凯) | PhD Candidate in Economics"
+title                    : "Kai SUN (孙凯)"
 description              : "PhD candidate in Economics"
 repository               : "Ksigma214/Ksigma214.github.io"
 google_scholar_stats_use_cdn : true
