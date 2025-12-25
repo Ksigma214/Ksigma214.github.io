@@ -193,3 +193,14 @@ html[data-theme="dark"] .author__urls .far {
   height: auto !important;
 }
 
+@media (min-width: 1024px) {
+  body {
+    transform: scale(0.9);
+    transform-origin: top center;
+  }
+
+  html {
+    overflow-x: hidden;
+  }
+}
+
