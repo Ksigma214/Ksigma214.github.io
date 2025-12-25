@@ -124,8 +124,24 @@ html[data-theme="dark"] a {
   color: #7aa2ff;
 }
 
-.theme-toggle {
-  cursor: pointer;
-  font-size: 1.1em;
-  text-decoration: none;
+/* ===== Theme toggle: top-right ===== */
+#site-nav {
+  position: relative;
 }
+
+#theme-toggle {
+  position: absolute;
+  right: 0.8rem;      /* 距离右边的间距，可微调 */
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.2em;
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 1;
+}
+
+/* 悬停效果（可选） */
+#theme-toggle:hover {
+  opacity: 0.8;
+}
+
