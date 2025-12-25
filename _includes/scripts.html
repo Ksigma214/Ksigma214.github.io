@@ -13,13 +13,14 @@
     btn.textContent = mode === "dark" ? "☀️" : "🌙";
   };
 
-  const saved = localStorage.getItem("theme");
+ const saved = localStorage.getItem("theme");
+
   if (saved === "dark" || saved === "light") {
+    // 用户之前选过，优先用用户选择
     apply(saved);
-  } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
-    apply("dark");
   } else {
-    apply("light");
+  // 没选过：默认夜间模式
+    apply("dark");
   }
 
   btn.addEventListener("click", (e) => {
