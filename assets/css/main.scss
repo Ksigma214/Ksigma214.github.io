@@ -168,3 +168,15 @@ html[data-theme="dark"] .hidden-links a {
   color: #e6e6e6 !important;
 }
 
+/* ===== Dark mode: sidebar icons ===== */
+html[data-theme="dark"] .author__urls i,
+html[data-theme="dark"] .author__urls svg,
+html[data-theme="dark"] .author__urls .fa,
+html[data-theme="dark"] .author__urls .fas,
+html[data-theme="dark"] .author__urls .fab,
+html[data-theme="dark"] .author__urls .far {
+  color: #e6e6e6 !important;
+  fill: #e6e6e6 !important;
+}
+
+
