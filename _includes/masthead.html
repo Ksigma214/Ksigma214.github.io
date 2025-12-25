@@ -2,10 +2,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
 
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-item--lg masthead__menu-home-item">
             <a href="#about-me">Homepage</a>
           </li>
 
@@ -14,12 +13,18 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
-
-          <!-- 🌙 Dark / Light mode toggle -->
-          <li class="masthead__menu-item">
-            <a href="#" id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">🌙</a>
-          </li>
         </ul>
+
+        <!-- ✅ 🌙 toggle 放到 visible-links 外面：不会被移动端挪进 hidden-links -->
+        <div class="theme-toggle-wrap">
+          <a href="javascript:void(0);" id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">🌙</a>
+        </div>
+
+        <!-- ✅ 使用 greedy-nav 的标准 toggle（移动端汉堡菜单） -->
+        <button class="greedy-nav__toggle" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
 
         <ul class="hidden-links hidden"></ul>
       </nav>
