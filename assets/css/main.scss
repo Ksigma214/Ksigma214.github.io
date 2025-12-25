@@ -178,6 +178,7 @@ html[data-theme="dark"] .author__urls .far {
 
 /* ===== Theme toggle: stable on desktop + mobile ===== */
 /* 依赖 masthead.html 里把 #theme-toggle 放在 .theme-toggle-wrap 中，且在 .visible-links 之外 */
+
 .greedy-nav {
   display: flex;
   align-items: center;
@@ -199,9 +200,16 @@ html[data-theme="dark"] .author__urls .far {
   padding: 0 .6rem;
 }
 
-/* 可选：让🌙和汉堡按钮别贴太紧 */
+/* 可选：让🌙和汉堡按钮别贴太紧（桌面/移动都生效） */
 .greedy-nav__toggle {
   margin-left: .2rem;
+}
+
+/* ✅ 手机端：把🌙再往左挪一点，避免和三条线几乎重叠 */
+@media (max-width: 768px) {
+  #theme-toggle {
+    margin-right: 10px;   /* 你想更左就调大：12/14/16px */
+  }
 }
 
 @media (min-width: 1024px) {
