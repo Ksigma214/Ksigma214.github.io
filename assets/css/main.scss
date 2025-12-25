@@ -107,3 +107,19 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ===== Dark mode ===== */
+html[data-theme="dark"],
+:root[data-theme="dark"] {
+  background-color: #0f1115;
+  color: #e6e6e6;
+}
+
+html[data-theme="dark"] body {
+  background-color: #0f1115;
+  color: #e6e6e6;
+}
+
+html[data-theme="dark"] a {
+  color: #7aa2ff;
+}
