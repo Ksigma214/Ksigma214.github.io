@@ -61,8 +61,10 @@ I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.e
   Zhongnan University of Economics and Law (中南财经政法大学)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+Pending
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.10 - 2025.04*, Research Assistant for [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) and [Farid Toubal](https://faridtoubal.com/)
+- *2024.02 - 2024.09*, Research Assistant for [Ariell Reshef](https://www.parisschoolofeconomics.com/reshef-ariell/home.htm) and [Hillel Rapoport](https://sites.google.com/view/hillel-rapoport)
+- *2023.06 - 2023.09*, Research Assistant for [Clément Bosquet](https://sites.google.com/site/clementbosquet/) and [Sarah Flèche](https://sites.google.com/site/sarahfleche/home?authuser=0)
