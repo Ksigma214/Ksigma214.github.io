@@ -2,3 +2,31 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+(function () {
+  const btn = document.getElementById("theme-toggle");
+  if (!btn) return;
+
+  const apply = (mode) => {
+    document.documentElement.setAttribute("data-theme", mode);
+    btn.textContent = mode === "dark" ? "☀️" : "🌙";
+  };
+
+  const saved = localStorage.getItem("theme");
+  if (saved === "dark" || saved === "light") {
+    apply(saved);
+  } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    apply("dark");
+  } else {
+    apply("light");
+  }
+
+  btn.addEventListener("click", () => {
+    const current = document.documentElement.getAttribute("data-theme") || "light";
+    const next = current === "dark" ? "light" : "dark";
+    localStorage.setItem("theme", next);
+    apply(next);
+  });
+})();
+</script>
