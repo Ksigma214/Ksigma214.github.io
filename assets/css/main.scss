@@ -145,3 +145,26 @@ html[data-theme="dark"] a {
   opacity: 0.8;
 }
 
+/* ===== Dark mode: masthead / nav ===== */
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .masthead__inner-wrap,
+html[data-theme="dark"] .masthead__menu,
+html[data-theme="dark"] .greedy-nav {
+  background-color: #0f1115 !important;
+  color: #e6e6e6 !important;
+}
+
+html[data-theme="dark"] .greedy-nav a,
+html[data-theme="dark"] .masthead a,
+html[data-theme="dark"] .greedy-nav .visible-links a {
+  color: #e6e6e6 !important;
+}
+
+/* （可选）隐藏菜单弹出的背景也变暗 */
+html[data-theme="dark"] .hidden-links {
+  background-color: #0f1115 !important;
+}
+html[data-theme="dark"] .hidden-links a {
+  color: #e6e6e6 !important;
+}
+
