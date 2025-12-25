@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kai SUN （孙凯）"
+  name             : "Kai SUN (孙凯)"
   avatar           : "images/Kai_photo2.jpg"
   bio              : ""
   location         : "Paris, France"
-  employer         :
+  employer         : "ESSEC Business School"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "kai.sun@essec.edu"
