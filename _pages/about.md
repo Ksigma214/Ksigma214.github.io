@@ -67,7 +67,8 @@ Pending
 
 # 🌍 Visitors
 
-<div id="visitor-map"></div>
+<div class="visitor-map"></div>
+
 
 
 
