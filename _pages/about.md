@@ -67,8 +67,10 @@ Pending
 
 # 🌍 Visitors
 
-<a href="https://mapmyvisitors.com/web/1c1gr" title="Visit tracker">
-  <img src="https://mapmyvisitors.com/map.png?d=50AbbGQ2mMis2fm3SVKLtiKywngug7sRSYBJkV1RkJ8&cl=1f2933" alt="Visitor map">
-</a>
+<script
+  type="text/javascript"
+  id="mapmyvisitors"
+  src="//mapmyvisitors.com/map.js?d=50AbbGQ2mMis2fm3SVKLtiKywngug7sRSYBJkV1RkJ8&cl=ffffff&w=a">
+</script>
 
 
