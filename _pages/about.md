@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/). My advisor is [François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous macroeconomics and policy transimission, computational macroeconomics and international economics.
+I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/). My advisor is [François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous macroeconomics and policy transimission, computational macroeconomics and international economics.
 
 
 # 🔥 News
