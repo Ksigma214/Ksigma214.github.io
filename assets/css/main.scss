@@ -208,7 +208,7 @@ html[data-theme="dark"] .author__urls .far {
 /* ✅ 手机端：把🌙再往左挪一点，避免和三条线几乎重叠 */
 @media (max-width: 768px) {
   #theme-toggle {
-    margin-right: 16px;   /* 你想更左就调大：12/14/16px */
+    margin-right: 30px;   /* 你想更左就调大：12/14/16px */
   }
 }
 
