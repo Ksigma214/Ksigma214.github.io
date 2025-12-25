@@ -26,7 +26,7 @@ I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.e
 
 # ⚙️ Working Papers
 
-Pending
+Accounting for Tastes of "Third-Country" Immigrants: A Structural Gravity Model Approach
 
 # 📝 Publications 
 
