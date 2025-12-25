@@ -179,4 +179,17 @@ html[data-theme="dark"] .author__urls .far {
   fill: #e6e6e6 !important;
 }
 
+/* =========================
+   Visitors map (MapMyVisitors)
+   ========================= */
+
+.visitor-map {
+  max-width: 600px;      /* 调小地图宽度 */
+  margin: 1.5em auto;    /* 居中 */
+}
+
+.visitor-map iframe {
+  width: 100% !important;
+  height: auto !important;
+}
 
