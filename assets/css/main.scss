@@ -83,8 +83,6 @@
         }
 
     }
-
-
 }
 
 $scroll_offset : 2em;
@@ -122,22 +120,6 @@ html[data-theme="dark"] body {
 
 html[data-theme="dark"] a {
   color: #7aa2ff;
-}
-
-/* ===== Theme toggle: top-right ===== */
-#site-nav {
-  position: relative;
-}
-
-#theme-toggle {
-  position: absolute;
-  right: 0.8rem;      /* 距离右边的间距，可微调 */
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 1.2em;
-  text-decoration: none;
-  cursor: pointer;
-  line-height: 1;
 }
 
 /* 悬停效果（可选） */
@@ -194,6 +176,34 @@ html[data-theme="dark"] .author__urls .far {
   height: auto !important;
 }
 
+/* ===== Theme toggle: stable on desktop + mobile ===== */
+/* 依赖 masthead.html 里把 #theme-toggle 放在 .theme-toggle-wrap 中，且在 .visible-links 之外 */
+.greedy-nav {
+  display: flex;
+  align-items: center;
+}
+
+.theme-toggle-wrap {
+  margin-left: auto;      /* 把🌙推到最右 */
+  display: flex;
+  align-items: center;
+}
+
+#theme-toggle {
+  position: static;       /* 关键：不要 absolute */
+  transform: none;
+  font-size: 1.2em;
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0 .6rem;
+}
+
+/* 可选：让🌙和汉堡按钮别贴太紧 */
+.greedy-nav__toggle {
+  margin-left: .2rem;
+}
+
 @media (min-width: 1024px) {
   body {
     transform: scale(0.95);
@@ -204,4 +214,3 @@ html[data-theme="dark"] .author__urls .far {
     overflow-x: hidden;
   }
 }
-
