@@ -46,18 +46,11 @@ I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.e
 - *2025.09 - 2030.06*, Ph.D. Fellowship, ESSEC Business School
 
 # 📖 Educations
-- **Ph.D. in Economics**  
-  *Sep 2025 – Jun 2030 (expected)*  
-  ESSEC Business School - CY Cergy Paris Université
-- **Master in Economics (APE Program)**  
-  *Sep 2022 – Jun 2024*  
-  Paris School of Economics (PSE) - Université Paris 1 Panthéon-Sorbonne
-- **Master 1st Year MMEF (Mathematical Methods in Economics and Finance)**  
-  *Sep 2021 – Jun 2022*  
-  Université Paris 1 Panthéon-Sorbonne
-- **B.A. in Economics**  
-  *Sep 2017 – Jun 2021*  
-  Zhongnan University of Economics and Law (中南财经政法大学)
+- **Ph.D. in Economics**, ESSEC Business School – CY Cergy Paris Université *(2025–2030, expected)*
+- **M.Sc. in Economics (APE)**, Paris School of Economics – Université Paris 1 *(2022–2024)*
+- **M.Sc. (MMEF, M1)**, Université Paris 1 Panthéon-Sorbonne *(2021–2022)*
+- **B.A. in Economics**, Zhongnan University of Economics and Law *(2017–2021)*
+
 
 # 💬 Invited Talks
 
