@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Economics at ESSEC Business School. My research interests include heterogeneous agent macroeconomics,
-monetary and fiscal policy, and computational macroeconomics. I am particularly interested in quantitative models with micro heterogeneity and their implications for policy design.
+# Welcome!
+
+I am a PhD student in Economics at ESSEC Business School. My advisor is [François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous macroeconomics and policy transimission, computational macroeconomics and international economics.
 
 
 # 🔥 News
