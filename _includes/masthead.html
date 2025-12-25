@@ -3,12 +3,31 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
+
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="#about-me">Homepage</a>
+          </li>
+
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
           {% endfor %}
+
+          <!-- 🌙 Dark / Light mode toggle -->
+          <li class="masthead__menu-item">
+            <button
+              id="theme-toggle"
+              type="button"
+              class="theme-toggle"
+              aria-label="Toggle dark mode"
+              style="background:none;border:none;font-size:1.1em;cursor:pointer;">
+              🌙
+            </button>
+          </li>
         </ul>
+
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
