@@ -22,19 +22,14 @@ redirect_from:
 I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/), under the supervision of [Prof. François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous agent macroeconomics, computational macroeconomics and international economics.
 
 # 🔥 News 
+
 <div class="news-box">
-
-- **2025.12**  Some update here...
-
-- **2025.11**  Some update here...
-
-- **2025.10**  Some update here...
-
-- **2025.09**  Some update here...
-
-- **2025.08**  Some update here...
-
+<ul class="news-list">
+  <li><span class="news-date">2025.10</span> Started the Ph.D. in Economics at ESSEC Business School.</li>
+  <li><span class="news-date">2024.07</span> Defended my Master’s thesis at the Paris School of Economics.</li>
+</ul>
 </div>
+
 
 # 🧠 Work in Progress
 - Monetary Policy and Heterogeneous Bank
