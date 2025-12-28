@@ -19,7 +19,18 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/), under the supervision of [Prof. François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous macroeconomics and policy transmission, computational macroeconomics and international economics.
+I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/), under the supervision of [Prof. François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous agent macroeconomics, computational macroeconomics and international economics.
+
+# 🔥 News 
+<div class="news-box">
+
+- **2025.12**  Some update here...
+- **2025.11**  Some update here...
+- **2025.10**  Some update here...
+- **2025.09**  Some update here...
+- **2025.08**  Some update here...
+
+</div>
 
 # 🧠 Work in Progress
 - Monetary Policy and Heterogeneous Bank
@@ -60,7 +71,7 @@ Pending
 Pending
 
 # 🔗 Useful Links & Resources
-- [The THANK Book (Florin Bilbiie)](https://sites.google.com/site/florinbilbiie/thank-book?authuser=0)
+- [The THANK Book (Florin O. Bilbiie)](https://sites.google.com/site/florinbilbiie/thank-book?authuser=0)
 
 # 💻 Internships
 - *2024.10 - 2025.04*, Research Assistant for [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) and [Farid Toubal](https://faridtoubal.com/)
