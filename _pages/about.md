@@ -71,6 +71,7 @@ Pending
 
 # 🔗 Useful Links & Resources
 - **The THANK Book** (Florin Bilbiie) — [THANK theory notes](https://sites.google.com/site/florinbilbiie/thank-book?authuser=0)
+- **Computational Macro Graduate Course** (Willi Mutschler) — [Course Github Website](https://github.com/wmutschl/Computational-Macroeconomics)
 
 # 💻 Internships
 - *2024.10 - 2025.04*, Research Assistant for [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) and [Farid Toubal](https://faridtoubal.com/)
