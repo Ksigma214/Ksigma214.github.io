@@ -69,7 +69,7 @@ Pending
 # 💬 Invited Talks
 Pending
 
-# 🔗 Useful Links & Resources
+# 🔗 Useful Links & Resources {#useful-links-resources}
 - **The THANK Book** (Florin Bilbiie) — [THANK theory notes](https://sites.google.com/site/florinbilbiie/thank-book?authuser=0)
 - **Computational Macro Graduate Course** (Willi Mutschler) — [Course Github Website](https://github.com/wmutschl/Computational-Macroeconomics)
 - **Quantitative Macro Graduate Course** (Willi Mutschler) — [Course Github Website](https://github.com/wmutschl/quantitative-macroeconomics)
