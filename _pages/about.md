@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 # Welcome!
 
 I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/), under the supervision of [Prof. François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous agent macroeconomics, computational macroeconomics and international economics.
@@ -29,7 +28,6 @@ I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.e
   <li><span class="news-date">2024.07</span> Defended my Master’s thesis at the Paris School of Economics.</li>
 </ul>
 </div>
-
 
 # 🧠 Work in Progress
 - Monetary Policy and Heterogeneous Bank
@@ -69,6 +67,7 @@ Pending
 # 💬 Invited Talks
 Pending
 
+<span class="anchor" id="useful-links-resources"></span>
 # 🔗 Useful Links & Resources
 - **The THANK Book** (Florin Bilbiie) — [THANK theory notes](https://sites.google.com/site/florinbilbiie/thank-book?authuser=0)
 - **Computational Macro Graduate Course** (Willi Mutschler) — [Course Github Website](https://github.com/wmutschl/Computational-Macroeconomics)
