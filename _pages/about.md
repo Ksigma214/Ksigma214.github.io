@@ -30,7 +30,7 @@ I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.e
 </div>
 
 # 🧠 Work in Progress
-- Monetary Policy and Heterogeneous Bank
+- HBANK with banking networks
 
 # ⚙️ Working Papers
 
