@@ -68,7 +68,7 @@ Pending
 Pending
 
 <span class="anchor" id="useful-links-resources"></span>
-# 🔗 Useful Links & Resources
+# 🔗 Useful Resources
 
 ## Materials
 - [THANK theory notes (Florin Bilbiie)](https://sites.google.com/site/florinbilbiie/thank-book?authuser=0)
