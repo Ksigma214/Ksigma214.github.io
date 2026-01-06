@@ -71,10 +71,12 @@ Pending
 # 🔗 Useful Links & Resources
 
 ## Materials
-- **The THANK Book** (Florin Bilbiie) — [THANK theory notes](https://sites.google.com/site/florinbilbiie/thank-book?authuser=0)
-- **Computational Macro Graduate Course** (Willi Mutschler) — [Course Github Website](https://github.com/wmutschl/Computational-Macroeconomics)
-- **Quantitative Macro Graduate Course** (Willi Mutschler) — [Course Github Website](https://github.com/wmutschl/quantitative-macroeconomics)
-- **Computational Economics** (Florian Oswald) — [Computational Economics for PhDs](https://floswald.github.io/CompEcon)
+- [THANK theory notes (Florin Bilbiie)](https://sites.google.com/site/florinbilbiie/thank-book?authuser=0)
+- [Computational Macro (Willi Mutschler)](https://github.com/wmutschl/Computational-Macroeconomics)
+- [Quant Macro (Willi Mutschler)](https://github.com/wmutschl/quantitative-macroeconomics)
+- [Computational Economics for PhDs (Florian Oswald)](https://floswald.github.io/CompEcon)
+- [NBER HANK workshop 2025](https://github.com/shade-econ/nber-workshop-2025)
+
 
 ## Data
 - [U.S. Monetary Policy Event-Study Database](https://www.frbsf.org/research-and-insights/data-and-indicators/us-monetary-policy-event-study-database/)
