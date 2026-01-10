@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Welcome!
 
-I am a PhD candidate in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/), under the supervision of [Prof. François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous agent macroeconomics, computational macroeconomics and international economics.
+I am a PhD student in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/), under the supervision of [Prof. François Le Grand](https://francois-le-grand.com/). My research interests include heterogeneous agent macroeconomics, computational macroeconomics and international economics.
 
 # 🔥 News 
 
