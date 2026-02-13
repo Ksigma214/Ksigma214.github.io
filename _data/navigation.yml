@@ -4,22 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#publications"
 
   - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#educations"
 
   - title: "Useful Resources"
     url: "/#useful-links-resources"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
