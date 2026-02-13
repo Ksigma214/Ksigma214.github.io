@@ -106,79 +106,6 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-
-
-/* ===== Homepage layout refresh ===== */
-.homepage-hero {
-  padding: 1.4rem 1.5rem;
-  border: 1px solid #e8e8e8;
-  border-radius: 14px;
-  background: #fafafa;
-  margin: 0.6rem 0 1.2rem;
-}
-
-.homepage-hero h1 {
-  margin-top: 0;
-}
-
-.hero-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.7rem;
-  margin-top: 0.8rem;
-}
-
-.hero-links a {
-  display: inline-block;
-  padding: 0.3rem 0.75rem;
-  border-radius: 999px;
-  border: 1px solid #d8d8d8;
-  text-decoration: none;
-  font-size: 0.92rem;
-}
-
-.section-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-}
-
-@media (min-width: 960px) {
-  .section-grid {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-.section-card {
-  margin: 0 0 1rem;
-  padding: 1rem 1.2rem;
-  border: 1px solid #ececec;
-  border-radius: 12px;
-  background: #fff;
-}
-
-.section-card h2,
-.section-card h3 {
-  margin-top: 0.2rem;
-}
-
-.timeline-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.timeline-list li {
-  margin: 0.5rem 0;
-  line-height: 1.45;
-}
-
-.timeline-date {
-  font-weight: 700;
-  margin-right: 0.55rem;
-  color: #3f5bd8;
-}
-
 /* ===== Dark mode ===== */
 html[data-theme="dark"],
 :root[data-theme="dark"] {
@@ -198,18 +125,6 @@ html[data-theme="dark"] a {
 /* 悬停效果（可选） */
 #theme-toggle:hover {
   opacity: 0.8;
-}
-
-
-html[data-theme="dark"] .homepage-hero,
-html[data-theme="dark"] .section-card {
-  background-color: #171a21;
-  border-color: #2c3240;
-}
-
-html[data-theme="dark"] .hero-links a {
-  border-color: #3b4354;
-  color: #e6e6e6;
 }
 
 /* ===== Dark mode: masthead / nav ===== */
