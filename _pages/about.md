@@ -76,7 +76,7 @@ Pending
 - [Quant Macro (Willi Mutschler)](https://github.com/wmutschl/quantitative-macroeconomics)
 - [Computational Economics for PhDs (Florian Oswald)](https://floswald.github.io/CompEcon)
 - [NBER HANK workshop 2025](https://github.com/shade-econ/nber-workshop-2025)
-
+- [Notes by David Murakami](https://hirothreading.github.io/macro-postgrad/)
 
 ## Data
 - [U.S. Monetary Policy Event-Study Database](https://www.frbsf.org/research-and-insights/data-and-indicators/us-monetary-policy-event-study-database/)
