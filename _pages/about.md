@@ -78,6 +78,7 @@ Pending
 - [NBER HANK workshop 2025](https://github.com/shade-econ/nber-workshop-2025)
 - [Notes by David Murakami](https://hirothreading.github.io/macro-postgrad/)
 - [The Estimation of DSGE models - Prof. Johannes Pfeifer](https://sites.google.com/site/pfeiferecon/teaching)
+- [Errata in many seminal textbooks - Prof. Johannes Pfeifer](https://sites.google.com/site/pfeiferecon/teaching)
 
 ## Data
 - [U.S. Monetary Policy Event-Study Database](https://www.frbsf.org/research-and-insights/data-and-indicators/us-monetary-policy-event-study-database/)
