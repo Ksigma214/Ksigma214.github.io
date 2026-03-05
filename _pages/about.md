@@ -83,6 +83,7 @@ Pending
 ## Data
 - [U.S. Monetary Policy Event-Study Database](https://www.frbsf.org/research-and-insights/data-and-indicators/us-monetary-policy-event-study-database/)
 - [U.S. Business Cycle Dating](https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions)
+- [Global Macro/Credit Database](https://www.karstenmueller.com/data.html): the world's most comprehensive resource for cross-country macroeconomic/credit statistics
 
 # 💻 Internships
 - *2024.10 - 2025.04*, Research Assistant for [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) and [Farid Toubal](https://faridtoubal.com/)
