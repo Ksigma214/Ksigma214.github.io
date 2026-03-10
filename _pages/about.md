@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Welcome!
 
-I am a PhD student in Economics at [ESSEC Business School](https://www.essec.edu/en/pages/economics-department/), under the supervision of [Prof. François Le Grand](https://francois-le-grand.com/). My research lies at the intersection of macroeconomics and finance, with a focus on financial networks, systemic risk, and heterogeneous agent models. I am particularly interested in how network structure and financial frictions shape aggregate dynamics and optimal policy.
+I am a PhD student in Economics at ESSEC Business School, under the supervision of Prof. François Le Grand. My research lies at the intersection of macroeconomics and finance, with a focus on financial networks, systemic risk, heterogeneous agent models, and asset price bubbles. I am particularly interested in how network structure and financial frictions shape the formation and propagation of bubbles, aggregate dynamics, and optimal policy.
 
 # 🔥 News 
 
