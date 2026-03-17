@@ -20,7 +20,7 @@ redirect_from:
 
 I am a PhD student in Economics at ESSEC Business School, under the supervision of Prof. [François Le Grand](https://francois-le-grand.com/). 
 
-My research interests are HA maroeconomics and optimal policy. A central question running through my work is normative: in economies with heterogeneous agents, what does optimal policy look like? I study this question across different settings, i.e. heterogeneous households, firms, and banks.
+My research interests lie in HA macroeconomics and optimal policy. A central question running through my work is normative: in economies with heterogeneous agents, what does optimal policy look like? I study this question across different settings, e.g. heterogeneous households, firms, and banks.
 
 # 🔥 News 
 
