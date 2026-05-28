@@ -87,11 +87,6 @@ Pending
 - [U.S. Business Cycle Dating](https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions)
 - [Global Macro/Credit Database](https://www.karstenmueller.com/data.html): the world's most comprehensive resource for cross-country macroeconomic/credit statistics
 
-# 💻 Internships
-- *2024.10 - 2025.04*, Research Assistant for [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) and [Farid Toubal](https://faridtoubal.com/)
-- *2024.02 - 2024.09*, Research Assistant for [Ariell Reshef](https://www.parisschoolofeconomics.com/reshef-ariell/home.htm) and [Hillel Rapoport](https://sites.google.com/view/hillel-rapoport)
-- *2023.06 - 2023.09*, Research Assistant for [Clément Bosquet](https://sites.google.com/site/clementbosquet/) and [Sarah Flèche](https://sites.google.com/site/sarahfleche/home?authuser=0)
-
 # 🌍 Visitors
 
 <div class="visitor-map">
