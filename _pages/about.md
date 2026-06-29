@@ -20,7 +20,7 @@ redirect_from:
 
 I am a PhD student in Economics at ESSEC Business School. 
 
-My research interests lie in HA macroeconomics and optimal policy. A central question running through my work is normative: in economies with heterogeneous agents, what does optimal policy look like? I study this question across different settings, e.g. heterogeneous households, firms, and banks.
+My research interests lie in HA macroeconomics, Economic Networks, Quantitative Macroeconomics, Computational Economics.
 
 # 🔥 News 
 
