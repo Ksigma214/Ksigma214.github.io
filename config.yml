@@ -46,7 +46,7 @@ params:
     profileMode:
           enabled: true
           title: Kai SUN (孙凯)
-          subtitle: "I am a PhD student in Economics at ESSEC Business School – CY Cergy Paris Université. My research interests lie in heterogeneous-agent macroeconomics, banking and financial intermediation, economic networks, and computational economics. Before the PhD, I completed the Master APE at the Paris School of Economics – Université Paris 1 Panthéon-Sorbonne."
+          subtitle: "I am a PhD student in Economics at ESSEC Business School & CY Cergy Paris Université. My research interests lie in HA macroeconomics, banking and financial intermediation, economic networks, and computational economics. Before the PhD, I completed the Master APE at the Paris School of Economics."
           imageUrl: "kai.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -60,10 +60,10 @@ params:
 
     socialIcons:
         # Add your CV as static/cv.pdf, then uncomment:
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: cv.pdf
         - name: Email
-          url: mailto:kai.sun@essec.edu
+          url: b00831457@essec.edu
         # Replace USER_ID with your Google Scholar ID, then uncomment:
         # - name: Google Scholar
         #   url: https://scholar.google.com/citations?user=USER_ID
