@@ -1,0 +1,97 @@
+baseURL: "https://ksigma214.github.io/"
+title: Kai SUN (孙凯)
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: papers/
+          weight: 1
+        - name: Resources
+          url: resources/
+          weight: 2
+
+params:
+    description: "This website hosts Kai SUN's research papers, curriculum vitae, and contact information. Kai SUN is a PhD student in Economics at ESSEC Business School."
+    author: Kai SUN
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["papers"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Kai SUN (孙凯)
+          subtitle: "I am a PhD student in Economics at ESSEC Business School – CY Cergy Paris Université. My research interests lie in heterogeneous-agent macroeconomics, banking and financial intermediation, economic networks, and computational economics. Before the PhD, I completed the Master APE at the Paris School of Economics – Université Paris 1 Panthéon-Sorbonne."
+          imageUrl: "kai.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Resources
+              url: resources/
+            # - name: Archive
+            #   url: archive/
+
+    socialIcons:
+        # Add your CV as static/cv.pdf, then uncomment:
+        # - name: CV
+        #   url: cv.pdf
+        - name: Email
+          url: mailto:kai.sun@essec.edu
+        # Replace USER_ID with your Google Scholar ID, then uncomment:
+        # - name: Google Scholar
+        #   url: https://scholar.google.com/citations?user=USER_ID
+        - name: GitHub
+          url: https://github.com/Ksigma214
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/kai-sun71299/
+        - name: Twitter
+          url: https://x.com/Kai_Sun99
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Kai SUN (孙凯)"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
