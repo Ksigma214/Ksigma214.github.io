@@ -63,7 +63,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: b00831457@essec.edu
+          url: mailto:b00831457@essec.edu
         # Replace USER_ID with your Google Scholar ID, then uncomment:
         # - name: Google Scholar
         #   url: https://scholar.google.com/citations?user=USER_ID
