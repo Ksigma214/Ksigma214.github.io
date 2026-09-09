@@ -46,7 +46,7 @@ params:
     profileMode:
           enabled: true
           title: Kai SUN (孙凯)
-          subtitle: "I am a PhD student in Economics at ESSEC Business School & CY Cergy Paris Université, under the supervision of Prof. François Le Grand. <br> My research interests lie in heterogeneous agent macro-finance. <br> Before the PhD, I completed the Master APE at the Paris School of Economics."
+          subtitle: "I am a PhD student in Economics at ESSEC Business School & CY Cergy Paris Université, under the supervision of Prof. François Le Grand. <br> My research interests lie in macro public finance, applied micro theory and heterogeneous agent macro. <br> Before the PhD, I completed the Master APE at the Paris School of Economics."
           imageUrl: "kai.jpeg"
           imageWidth: 160
           imageHeight: 160
