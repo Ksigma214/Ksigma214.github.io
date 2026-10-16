@@ -28,6 +28,7 @@ hidemeta: true
 
 ##### Labs
 + [Global Linkages Lab](https://www.globallinkages.org/about)
++ [Global Capital Allocation Project](https://www.globalcapitalallocation.com)
 + [Farhi Innovation Lab](https://www.farhi-innovation-lab.fr/)
 + [Princeton Macrofinance Lab](https://macrofinance.princeton.edu)
 + [Social Economics Lab](https://socialeconomicslab.org/)
