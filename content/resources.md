@@ -15,6 +15,7 @@ hidemeta: true
 + [Postgraduate macro notes (David Murakami)](https://hirothreading.github.io/macro-postgrad/)
 + [The estimation of DSGE models (Johannes Pfeifer)](https://sites.google.com/site/pfeiferecon/teaching)
 + [Errata in seminal macro textbooks (Johannes Pfeifer)](https://sites.google.com/site/pfeiferecon/teaching)
++ [Aiyagari 1994 Replication with EGM (Alexandre Gaillard)](https://a-gaillard.com/#code)
 
 ---
 
