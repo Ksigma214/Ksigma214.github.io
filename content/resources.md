@@ -24,6 +24,7 @@ hidemeta: true
 + [U.S. Monetary Policy Event-Study Database (FRBSF)](https://www.frbsf.org/research-and-insights/data-and-indicators/us-monetary-policy-event-study-database/)
 + [U.S. Business Cycle Dating (NBER)](https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions)
 + [Global Macro Database](https://www.globalmacrodata.com/)
++ [China's Macroeconomy: Time Series Data](https://www.atlantafed.org/research-and-data/data/china-macroeconomy)
 
 ---
 
